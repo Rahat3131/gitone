@@ -20,7 +20,7 @@
 .navbar li {
     float: left;
     padding: 0px 30px;
-    color: gray;
+    color: red;
     font-size: 20px;
     font-family:'Roboto';  
 }
